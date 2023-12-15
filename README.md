@@ -28,12 +28,4 @@ Cada pasta contém um projeto individual com seu próprio arquivo README e instr
 - Java
 - Java Swing
 
-## Como Contribuir
-
-Se você tiver sugestões de melhorias, novos recursos ou correções para qualquer um dos projetos, ficarei muito feliz em receber contribuições! Basta criar uma issue ou um pull request.
-
-## Contato
-
-Se você gostou dos projetos ou tem alguma pergunta, fique à vontade para entrar em contato comigo por meio do meu e-mail [seu-email@example.com] ou pelas minhas redes sociais [link do seu LinkedIn, por exemplo].
-
 Obrigado por visitar meu repositório! Espero que esses projetos possam ser úteis ou inspiradores para você.
